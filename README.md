@@ -481,6 +481,8 @@ WHERE gender='F'
 
 ### Comando JOIN
 
+![](https://i.pinimg.com/474x/b0/3d/67/b03d6794fb787492bea0f41a8144a37d--business-intelligence-computer-science.jpg)
+
 Algunos de los JOIN's usados en la clase fueron:
 
 - Listar todos los autores con ID entre 1 y 5 con los filtro mayor y menor igual
